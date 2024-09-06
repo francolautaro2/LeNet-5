@@ -27,4 +27,4 @@ LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). **Gradient-based learni
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/lenet5-implementation.git
+   git clone https://github.com/francolautaro2/LeNet-5.git
